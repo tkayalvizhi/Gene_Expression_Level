@@ -14,11 +14,11 @@ Link to [Anaysis Report](https://drive.google.com/file/d/1uLvZA9hG6DdTa_IhlmZs-B
 supervised - explore a small subset of the single-cell RNA-seq data, using visualization and clustering methods to discover its structure. 
 
   Notebooks
-  [supervised.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/supervised/supervised.ipynb)
+  1. [supervised.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/supervised/supervised.ipynb)
 
 unsupervised & unsupervised_evaluation - explore a larger subset of the data. Using clustering combined with logistic regression, discover informative features which can be used to distinguish cells of different types.
 
   Notebooks
-  [hierarchical_clustering.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/unsupervised/hierarchical_clustering.ipynb)
-  [TSNE-perplexity_vs_learning_rate.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/unsupervised/TSNE-perplexity_vs_learning_rate.ipynb)
-  [evaluation.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/unsupervised_evaluation/evaluation.ipynb)
+  1. [hierarchical_clustering.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/unsupervised/hierarchical_clustering.ipynb)
+  2. [TSNE-perplexity_vs_learning_rate.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/unsupervised/TSNE-perplexity_vs_learning_rate.ipynb)
+  3. [evaluation.ipynb](https://github.com/tkayalvizhi/Gene_Expression_Level/blob/7cafdae51b784c1738e3317fc1c44091e8408ba3/unsupervised_evaluation/evaluation.ipynb)
